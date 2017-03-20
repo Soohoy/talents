@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingTop="0dp"
+    android:nestedScrollingEnabled="false">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text"/>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="top">
+
+        <GridView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/gridPanel"
+            android:columnWidth="48dp"
+            android:numColumns="6"
+            android:stretchMode="columnWidth"
+            android:verticalSpacing="1dp"
+            android:layout_marginTop="0dp"
+            android:gravity="top|start" />
+    </LinearLayout>
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:columnCount="3">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Сменить героя"
+            android:id="@+id/butSelectHero"
+            android:layout_gravity="center_horizontal"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:layout_columnWeight="1"
+            android:gravity="fill"
+            android:onClick="onClickButton" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Расчет"
+            android:id="@+id/butCalculation"
+            android:onClick="onClickCalculation"
+            android:layout_gravity="center_horizontal"
+            android:layout_row="0"
+            android:layout_column="1"
+            android:layout_columnWeight="1"
+            android:gravity="fill"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Заточить всё"
+            android:id="@+id/butUpLvl"
+            android:layout_gravity="center_horizontal"
+            android:layout_row="0"
+            android:layout_column="2"
+            android:layout_columnWeight="1"
+            android:gravity="fill"
+            android:onClick="onClickUpAllTalents" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Добавить сет"
+            android:id="@+id/butAddSet"
+            android:layout_gravity="center_horizontal"
+            android:layout_row="1"
+            android:layout_column="0"
+            android:layout_columnWeight="1"
+            android:gravity="fill"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Распределение очков"
+            android:id="@+id/butDistribution"
+            android:layout_gravity="center_horizontal"
+            android:layout_row="1"
+            android:layout_column="1"
+            android:layout_columnWeight="1"
+            android:gravity="fill"
+            android:layout_columnSpan="2" />
+
+    </GridLayout>
+</LinearLayout>

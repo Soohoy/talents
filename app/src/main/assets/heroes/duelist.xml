@@ -1,0 +1,197 @@
+<hero name="Дуэлянт / Принц воров">
+    <baseCharacteristic>
+        <entry>
+            <string>Здоровье</string>
+            <integer>750</integer>
+        </entry>
+        <entry>
+            <string>Энергия</string>
+            <integer>525</integer>
+        </entry>
+        <entry>
+            <string>Сила</string>
+            <integer>55</integer>
+        </entry>
+        <entry>
+            <string>Разум</string>
+            <integer>58</integer>
+        </entry>
+        <entry>
+            <string>Хитрость</string>
+            <integer>55</integer>
+        </entry>
+        <entry>
+            <string>Проворство</string>
+            <integer>58</integer>
+        </entry>
+        <entry>
+            <string>Стойкость</string>
+            <integer>66</integer>
+        </entry>
+        <entry>
+            <string>Воля</string>
+            <integer>68</integer>
+        </entry>
+        <entry>
+            <string>Скорость</string>
+            <integer>52</integer>
+        </entry>
+    </baseCharacteristic>
+
+    <talents1>
+        <talent name="Фарт" level="1">
+            <characteristic>
+                <entry>
+                    <string>Мощь</string>
+                    <float>45.12</float>
+                </entry>
+            </characteristic>
+            <description>С 40% шансом герой игнорирует 11-147 урона(от наибольшего из Силы и Разума), но не более 40%.</description>
+            <image>image/talentsOfHeroes/duelist/fart.png</image>
+        </talent>
+
+        <talent name="Нечестный бой" level="1">
+            <characteristic>
+                <entry>
+                    <string>Прайм</string>
+                    <float>300</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>45.12</float>
+                </entry>
+            </characteristic>
+            <description>описание</description>
+            <image>image/talentsOfHeroes/duelist/unfairFight.png</image>
+        </talent>
+
+        <talent name="Шквал ударов" level="1">
+            <characteristic>
+                <entry>
+                    <string>Прайм</string>
+                    <float>300</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>45.12</float>
+                </entry>
+            </characteristic>
+            <description>описание</description>
+            <image>image/talentsOfHeroes/duelist/aFlurryOfBlows.png</image>
+        </talent>
+    </talents1>
+
+    <talents2>
+        <talent name="Гремучая смесь" level="1">
+            <characteristic>
+                <entry>
+                    <string>Прайм</string>
+                    <float>220</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>45.12</float>
+                </entry>
+            </characteristic>
+            <description>описание</description>
+            <image>image/talentsOfHeroes/duelist/dangerousMix.png</image>
+        </talent>
+
+        <talent name="Лихой натиск" level="1">
+            <characteristic>
+                <entry>
+                    <string>Прайм</string>
+                    <float>200</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>45.12</float>
+                </entry>
+            </characteristic>
+            <description>описание</description>
+            <image>image/talentsOfHeroes/duelist/theDashingOnslaught.png</image>
+        </talent>
+
+        <talent name="Клинок с секретом" level="1">
+            <characteristic>
+                <entry>
+                    <string>Прайм</string>
+                    <float>390</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>45.12</float>
+                </entry>
+            </characteristic>
+            <description>описание</description>
+            <image>image/talentsOfHeroes/duelist/bladeWithASecret.png</image>
+        </talent>
+    </talents2>
+
+    <talents3>
+        <talent name="Безжалостный выстрел" level="1">
+            <characteristic>
+                <entry>
+                    <string>Прайм</string>
+                    <float>660</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>45.12</float>
+                </entry>
+            </characteristic>
+            <description>описание</description>
+            <image>image/talentsOfHeroes/duelist/ruthlessShot.png</image>
+        </talent>
+
+        <talent name="Козырь в рукаве" level="1">
+            <characteristic>
+                <entry>
+                    <string>Прайм</string>
+                    <float>440</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>45.12</float>
+                </entry>
+            </characteristic>
+            <description>описание</description>
+            <image>image/talentsOfHeroes/duelist/aceInTheHole.png</image>
+        </talent>
+    </talents3>
+
+    <talents4>
+        <talent name="Чертовски острый меч" level="1">
+            <characteristic>
+                <entry>
+                    <string>Прайм</string>
+                    <float>540</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>45.12</float>
+                </entry>
+            </characteristic>
+            <description>описание</description>
+            <image>image/talentsOfHeroes/duelist/damnSharpSword.png</image>
+        </talent>
+    </talents4>
+
+    <aHealth>1.617</aHealth>
+    <bHealth>731.37</bHealth>
+    <aEnergy>0.4998</aEnergy>
+    <bEnergy>226.02</bEnergy>
+    <aForce>0.0294</aForce>
+    <bForce>13.285</bForce>
+    <aMind>0.0412</aMind>
+    <bMind>18.549</bMind>
+    <aTrick>0.0176</aTrick>
+    <bTrick>7.9762</bTrick>
+    <aAgility>0.0353</aAgility>
+    <bAgility>15.922</bAgility>
+    <aPersistence>0.0324</aPersistence>
+    <bPersistence>14.586</bPersistence>
+    <aWill>0.0441</aWill>
+    <bWill>19.868</bWill>
+    <damage>Сила</damage>
+</hero>

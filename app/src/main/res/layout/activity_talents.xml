@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.TalentsActivity">
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorBlue"
+        android:id="@+id/checkBlue"
+        android:checked="true"
+        android:theme="@style/MyCheckBox"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/checkPink"
+        android:layout_toStartOf="@+id/checkPink"
+        android:onClick="onCheck" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPink"
+        android:id="@+id/checkPink"
+        android:checked="true"
+        style="@style/AppTheme"
+        android:theme="@style/MyCheckBox"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/checkOrange"
+        android:layout_toStartOf="@+id/checkOrange"
+        android:onClick="onCheck" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorOrange"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/checkRed"
+        android:layout_toStartOf="@+id/checkRed"
+        android:id="@+id/checkOrange"
+        android:checked="true"
+        android:theme="@style/MyCheckBox"
+        android:onClick="onCheck" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorRed"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/listTalents"
+        android:layout_alignEnd="@+id/listTalents"
+        android:id="@+id/checkRed"
+        android:checked="true"
+        android:theme="@style/MyCheckBox"
+        android:onClick="onCheck" />
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/listTalents"
+        android:layout_below="@+id/checkBlue" />
+
+</RelativeLayout>

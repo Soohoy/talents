@@ -1,0 +1,101 @@
+<hero name="duelist">
+    <characteristic>
+        <entry>
+            <string>Здоровье</string>
+            <float></float>
+        </entry>
+        <entry>
+            <string>Энергия</string>
+            <float></float>
+        </entry>
+        <entry>
+            <string>Сила</string>
+            <float></float>
+        </entry>
+        <entry>
+            <string>Разум</string>
+            <float></float>
+        </entry>
+        <entry>
+            <string>Хитрость</string>
+            <float></float>
+        </entry>
+        <entry>
+            <string>Проворство</string>
+            <float></float>
+        </entry>
+        <entry>
+            <string>Стойкость</string>
+            <float></float>
+        </entry>
+        <entry>
+            <string>Воля</string>
+            <float></float>
+        </entry>
+        <entry>
+            <string>Скорость</string>
+            <float></float>
+        </entry>
+        <entry>
+            <string>Рег. здоровья</string>
+            <float></float>
+        </entry>
+        <entry>
+            <string>Рег. энергии</string>
+            <float></float>
+        </entry>
+        <entry>
+            <string>Кража ХП</string>
+            <float></float>
+        </entry>
+        <entry>
+            <string>Кража МП</string>
+            <float></float>
+        </entry>
+        <entry>
+            <string>КД пак</string>
+            <float></float>
+        </entry>
+        <entry>
+            <string>Прайм</string>
+            <float></float>
+        </entry>
+        <entry>
+            <string>Мощь</string>
+            <float></float>
+        </entry>
+        <entry>
+            <string>Урон min</string>
+            <float></float>
+        </entry>
+        <entry>
+            <string>Урон max</string>
+            <float></float>
+        </entry>
+        <entry>
+            <string>Атака в секунду</string>
+            <float></float>
+        </entry>
+        <entry>
+            <string>Пробивание</string>
+            <float></float>
+        </entry>
+        <entry>
+            <string>Шанс крита</string>
+            <float></float>
+        </entry>
+        <entry>
+            <string>Защита тела</string>
+            <float></float>
+        </entry>
+        <entry>
+            <string>Защита духа</string>
+            <float></float>
+        </entry>
+    </characteristic>
+    <talents1>
+        <talent name="Фарт" level="1">
+            <description>С 40% шансом герой игнорирует 11-147 урона(от наибольшего из Силы и Разума), но не более 40%.</description>
+        </talent>
+    </talents1>
+</hero>
