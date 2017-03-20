@@ -1,0 +1,3469 @@
+<listTalents>
+    <redList>
+        <talent name="Торжество непокорных" level="1">
+            <characteristic>
+                <entry>
+                    <string>Стойкость I Воля</string>
+                    <float>12</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>180</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>53.04</float>
+                </entry>
+            </characteristic>
+            <description>+12 к наибольшему из Стойкости и Воли.
++180 Здоровья.</description>
+            <image>image/talents5/red/The triumph of the recalcitrant.jpg</image>
+            <delta>
+                <entry>
+                    <string>Стойкость I Воля</string>
+                    <float>1</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>13</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Нестабильное преимущество" level="1">
+            <characteristic>
+                <entry>
+                    <string>Сила I Разум</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>230</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>53.04</float>
+                </entry>
+            </characteristic>
+            <description>+10 к наибольшему из Силы и Разума.
++230 Здоровья.</description>
+            <image>image/talents5/red/Unstable advantage.jpg</image>
+            <delta>
+                <entry>
+                    <string>Сила I Разум</string>
+                    <float>1</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>14</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Ужасающее рвение" level="1">
+            <characteristic>
+                <entry>
+                    <string>Проворство</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>230</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>53.04</float>
+                </entry>
+            </characteristic>
+            <description>+10 Проворства.
++230 Здоровья.</description>
+            <image>image/talents5/red/Terrible zeal.jpg</image>
+            <delta>
+                <entry>
+                    <string>Проворство</string>
+                    <float>1</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>14</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Хитрость дракона" level="1">
+            <characteristic>
+                <entry>
+                    <string>Стойкость I Воля</string>
+                    <float>9</float>
+                </entry>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>53.04</float>
+                </entry>
+            </characteristic>
+            <description>+9 к наибольшему из Стойкости и Воли.
++10 Хитрости.</description>
+            <image>image/talents5/red/The trick of the dragon.jpg</image>
+            <delta>
+                <entry>
+                    <string>Стойкость I Воля</string>
+                    <float>0.7</float>
+                </entry>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>0.7</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Упоение жестокостью" level="1">
+            <characteristic>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>53.04</float>
+                </entry>
+            </characteristic>
+            <description>Если изучен талант Боевое упоение, то при активации наносит дополнительно 500 физ. урона случайному герою, находящемуся в облсти действия таланта Боевое упоение.</description>
+            <image>image/talents5/red/Relief with cruelty.jpg</image>
+        </talent>
+
+        <talent name="Упоение кровью" level="1">
+            <characteristic>
+                <entry>
+                    <string>Кража ХП</string>
+                    <float>16</float>
+                </entry>
+                <entry>
+                    <string>Проворство</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>53.04</float>
+                </entry>
+            </characteristic>
+            <description>При активации таланта, в течении 10 секунд талант Боевое упоение наносит урон в 3 раза чаще.</description>
+            <image>image/talents5/red/Surrendering with blood.jpg</image>
+            <delta>
+                <entry>
+                    <string>Кража ХП</string>
+                    <float>1.2</float>
+                </entry>
+                <entry>
+                    <string>Проворство</string>
+                    <float>0.7</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Сияние непреклонности" level="1">
+            <characteristic>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>230</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>53.04</float>
+                </entry>
+            </characteristic>
+            <description>+10 Стойкости.
++230 Здоровья.
+Талант Живительное сияние снимает все негативные эффекты.</description>
+            <image>image/talents5/red/Radiance of inflexibility.jpg</image>
+            <delta>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>0.7</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>18</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Взрывная неутомимость" level="1">
+            <characteristic>
+                <entry>
+                    <string>Воля</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>230</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>53.04</float>
+                </entry>
+            </characteristic>
+            <description>+10 Воли.
++230 Здоровья.
+Уменьшает время восстановления классовых талантов на 3% за смерть каждого врага с эффектом таланта Азарт подрывника.</description>
+            <image>image/talents5/red/Explosive indefatigability.jpg</image>
+            <delta>
+                <entry>
+                    <string>Воля</string>
+                    <float>0.7</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>18</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Ритуал господства" level="1">
+            <characteristic>
+                <entry>
+                    <string>Сила I Разум</string>
+                    <float>8</float>
+                </entry>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>53.04</float>
+                </entry>
+            </characteristic>
+            <description>+8 к наибольшему из Силы и Разума.
++10 Хитрости.
+Талант Ритуальное истребление наносит на 140 физ. урона больше.</description>
+            <image>image/talents5/red/Ritual of domination.jpg</image>
+            <delta>
+                <entry>
+                    <string>Сила I Разум</string>
+                    <float>0.7</float>
+                </entry>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>0.7</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Дерзкий порыв" level="1">
+            <characteristic>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Стойкость I Воля</string>
+                    <float>9</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>53.04</float>
+                </entry>
+            </characteristic>
+            <description>+10 Хитрости.
++9 к наибольшему из Стойкости и Воли.
+Время восстановления таланта Порыв решимости сокращается на 90 секунд.</description>
+            <image>image/talents5/red/The impudent impulse.jpg</image>
+            <delta>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>0.7</float>
+                </entry>
+                <entry>
+                    <string>Стойкость I Воля</string>
+                    <float>0.7</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Касание подавления" level="1">
+            <characteristic>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>230</float>
+                </entry>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>53.04</float>
+                </entry>
+            </characteristic>
+            <description>+230 Здоровья.
++10 Хитрости.
+Атака героя, усиленная талантом Смертельное касание дополнительно снижает наибольшее из Стойкости и Воли цели на 16 на 4 секунды.</description>
+            <image>image/talents5/red/Touch of suppression.jpg</image>
+            <delta>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>14</float>
+                </entry>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>1</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Касание преимущества" level="1">
+            <characteristic>
+                <entry>
+                    <string>Проворство</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Стойкость I Воля</string>
+                    <float>9</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>53.04</float>
+                </entry>
+            </characteristic>
+            <description>+10 Проворства.
++9 к наибольшему из Стойкости и Воли.
+Атака героя, усиленная талантом Смертельное касание дополнительно снижает скорость цели на 20% на 1.5 секунды.</description>
+            <image>image/talents5/red/Touching the Advantage.jpg</image>
+            <delta>
+                <entry>
+                    <string>Проворство</string>
+                    <float>0.7</float>
+                </entry>
+                <entry>
+                    <string>Стойкость I Воля</string>
+                    <float>0.7</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Чары твердости" level="1">
+            <characteristic>
+                <entry>
+                    <string>Сила I Разум</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Стойкоть</string>
+                    <float>9</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>53.04</float>
+                </entry>
+            </characteristic>
+            <description>+10 к наибольшему из Силы и Разума.
++9 Стойкости.
+Когда Герой использует пирожок, талант Чарующее изобилие уменьшает время действия эффектов контроля на 50% на 10 сек.</description>
+            <image>image/talents5/red/Enchantment hardness.jpg</image>
+            <delta>
+                <entry>
+                    <string>Сила I Разум</string>
+                    <float>0.7</float>
+                </entry>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>0.7</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Чары равновесия" level="1">
+            <characteristic>
+                <entry>
+                    <string>Сила I Разум</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Воля</string>
+                    <float>9</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>53.04</float>
+                </entry>
+            </characteristic>
+            <description>+10 к наибольшему из Сила и Разума.
++9 Воли.
+Когда Герой использует пирожок, талант Чарующее изобилие увеличивает максимальное Здоровье Героя на 250 на 10 сек.</description>
+            <image>image/talents5/red/Enchantment charms.jpg</image>
+            <delta>
+                <entry>
+                    <string>Сила I Разум</string>
+                    <float>0.7</float>
+                </entry>
+                <entry>
+                    <string>Воля</string>
+                    <float>0.7</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Разрушающий яд" level="1">
+            <characteristic>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>8</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>280</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>53.04</float>
+                </entry>
+            </characteristic>
+            <description>+8 Хитрости.
++280 Здоровья.
+Талант Ядовитое воздействие наносит на 40 маг. урона больше.</description>
+            <image>image/talents5/red/Destructive Poison.jpg</image>
+            <delta>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>0.6</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>18</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Гимн торжества" level="1">
+            <characteristic>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>12.9</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>53.04</float>
+                </entry>
+            </characteristic>
+            <description>+12.9 Стойкости всем союзникам вокруг.
+Талант Воодушевляющий гимн дополнительно увеличивает максимальное Здоровье на 70 за каждого союзника вокруг.</description>
+            <image>image/talents5/red/Hymn of celebration.jpg</image>
+            <delta>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>0.8</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Гимн решительности" level="1">
+            <characteristic>
+                <entry>
+                    <string>Воля</string>
+                    <float>12.9</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>53.04</float>
+                </entry>
+            </characteristic>
+            <description>+12.9 Воли всем союзникам вокруг.
+Увеличивает радиус действия таланта Воодушевляющий гимн.</description>
+            <image>image/talents5/red/Hymn of determination.jpg</image>
+            <delta>
+                <entry>
+                    <string>Воля</string>
+                    <float>0.8</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Быстродействующий яд" level="1">
+            <characteristic>
+                <entry>
+                    <string>Проворство</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>230</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>53.04</float>
+                </entry>
+            </characteristic>
+            <description>+10 Проворства.
+                +230 Здоровья.
+                Атака Героя наносит дополнительно 72 маг. урона по жертве таланта Ядовитое воздействие.</description>
+            <image>image/talents5/red/High speed poison.jpg</image>
+            <delta>
+                <entry>
+                    <string>Проворство</string>
+                    <float>1</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>14</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Лесное превосходство" level="1">
+            <characteristic>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>9</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>53.04</float>
+                </entry>
+            </characteristic>
+            <description>+10 Хитрости.
++9 Стойкости.
+Талант Символ леса дополнительно снижает наибольшее из Стойкости и Воли на 16.</description>
+            <image>image/talents5/red/Forest Excellence.jpg</image>
+            <delta>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>0.7</float>
+                </entry>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>0.7</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Лесная гармония" level="1">
+            <characteristic>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Воля</string>
+                    <float>9</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>53.04</float>
+                </entry>
+            </characteristic>
+            <description>+10 Хитрости.
++9 Воли.
+Талант Символ леса увеличивает регенерацию Здоровья героя на 13.5, если хотя бы на одном враге есть эффект таланта Символ леса.</description>
+            <image>image/talents5/red/Forest harmony.jpg</image>
+            <delta>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>0.7</float>
+                </entry>
+                <entry>
+                    <string>Воля</string>
+                    <float>0.7</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Невыносимый крик" level="1">
+            <characteristic>
+                <entry>
+                    <string>Сила I Разум</string>
+                    <float>9</float>
+                </entry>
+                <entry>
+                    <string>Проворство</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>53.04</float>
+                </entry>
+            </characteristic>
+            <description>+9 к наибольшему из Силы и Разума.
++10 Проворства.
+Талант Крик рока доплнительно наносит 210 маг. урона и действует на 1 сек дольше.</description>
+            <image>image/talents5/red/The unbearable scream.jpg</image>
+            <delta>
+                <entry>
+                    <string>Сила I Разум</string>
+                    <float>0.7</float>
+                </entry>
+                <entry>
+                    <string>Проворство</string>
+                    <float>0.7</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Пламя смуты" level="1">
+            <characteristic>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Стойкость I Воля</string>
+                    <float>9</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>53.04</float>
+                </entry>
+            </characteristic>
+            <description>+10 Хитрости.
++9 к наибольшему из Стойкости и Воли.
+Талант Коварное пламя дополнительно наносит 50% урона всем вокруг с каждой атаки цели.</description>
+            <image>image/talents5/red/Flame of Troubles.jpg</image>
+            <delta>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>0.7</float>
+                </entry>
+                <entry>
+                    <string>Стойкость I Воля</string>
+                    <float>0.7</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Пламя примирения" level="1">
+            <characteristic>
+                <entry>
+                    <string>Сила I Разум</string>
+                    <float>9</float>
+                </entry>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>53.04</float>
+                </entry>
+            </characteristic>
+            <description>+9 к наибольшему из Силы и Разума.
++10 Хитрости.
+Талант Коварное пламя дополнительно уменьшает урон от атак цели на 20.</description>
+            <image>image/talents5/red/Flame of reconciliation.jpg</image>
+            <delta>
+                <entry>
+                    <string>Сила I Разум</string>
+                    <float>0.7</float>
+                </entry>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>0.7</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Ледяная месть" level="1">
+            <characteristic>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>53.04</float>
+                </entry>
+            </characteristic>
+            <description>Враг, атакующий героя, получает 18 маг. урона и на 2 сек теряет 20% своей Скорости.</description>
+            <image>image/talents5/red/Icy revenge.jpg</image>
+        </talent>
+
+    </redList>
+
+    <orangeList>
+        <talent name="Алчность" level="1">
+            <characteristic>
+                <entry>
+                    <string>Сила I Разум</string>
+                    <float>7.5</float>
+                </entry>
+                <entry>
+                    <string>Кража ХП</string>
+                    <float>15</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>47.04</float>
+                </entry>
+            </characteristic>
+            <description>+7.5 к наибольшему из Силы и Разума.
++15 кражи Здоровья.
+Время восстановления таланта Необузданная ярость сокращется на 40 сек.</description>
+            <image>image/talents5/orange/Greed.jpg</image>
+            <delta>
+                <entry>
+                    <string>Сила I Разум</string>
+                    <float>0.5</float>
+                </entry>
+                <entry>
+                    <string>Кража ХП</string>
+                    <float>1</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Гибкость решений" level="1">
+            <characteristic>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>300</float>
+                </entry>
+                <entry>
+                    <string>Энергия</string>
+                    <float>140</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>47.04</float>
+                </entry>
+            </characteristic>
+            <description>+300 Здоровья.
++140 Энергии.
+Талант приобретает новое активируемое свойство, если собрать весь комплект Ночной Охотник.</description>
+            <image>image/talents5/orange/Flexibility of solutions.jpg</image>
+            <delta>
+                <entry>
+                    <string>Энергия</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>20</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Коварство живущих" level="1">
+            <characteristic>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>160</float>
+                </entry>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>47.04</float>
+                </entry>
+            </characteristic>
+            <description>+160 Здоровья.
++10 Хитрости.</description>
+            <image>image/talents5/orange/Treachery of the living.jpg</image>
+            <delta>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>12</float>
+                </entry>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>0.8</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Кровавый штурм" level="1">
+            <characteristic>
+                <entry>
+                    <string>Кража ХП</string>
+                    <float>18.5</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>47.04</float>
+                </entry>
+            </characteristic>
+            <description>Увеличивает кражу Здоровья всех союзников вокруг на 18.5.</description>
+            <image>image/talents5/orange/Bloody assault.jpg</image>
+            <delta>
+                <entry>
+                    <string>Кража ХП</string>
+                    <float>1.5</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Проворство живущих" level="1">
+            <characteristic>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>160</float>
+                </entry>
+                <entry>
+                    <string>Проворство</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>47.04</float>
+                </entry>
+            </characteristic>
+            <description>+160 Здоровья.
++10 Проворства.</description>
+            <image>image/talents5/orange/Agility of the living.jpg</image>
+            <delta>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>12</float>
+                </entry>
+                <entry>
+                    <string>Проворство</string>
+                    <float>0.8</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Внутренний стержень" level="1">
+            <characteristic>
+                <entry>
+                    <string>Сила I Разум</string>
+                    <float>12</float>
+                </entry>
+                <entry>
+                    <string>Кража ХП</string>
+                    <float>7</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>47.04</float>
+                </entry>
+            </characteristic>
+            <description>+12 к наибольшему из Силы и Разума.
++7 кражи Здоровья.
+Талант приобретает новое активируемое свойство, если собрать весь комплект Воля Патриарха.</description>
+            <image>image/talents5/orange/Internal rod.jpg</image>
+            <delta>
+                <entry>
+                    <string>Сила I Разум</string>
+                    <float>0.9</float>
+                </entry>
+                <entry>
+                    <string>Кража ХП</string>
+                    <float>0.5</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Агрессивная позиция" level="1">
+            <characteristic>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>8</float>
+                </entry>
+                <entry>
+                    <string>Стойкость I Воли</string>
+                    <float>8</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>47.04</float>
+                </entry>
+            </characteristic>
+            <description>Уменьшает время действия эффектов контроля на 65% на 10 секунд.
++8 Хитрости.
++8 к наибольшему из Стойкости и Воли.
+Может быть улучшен 2 таантами сета.</description>
+            <image>image/talents5/orange/Aggressive position.jpg</image>
+            <delta>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>0.6</float>
+                </entry>
+                <entry>
+                    <string>Стойкость I Воля</string>
+                    <float>0.6</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Неумолимое присутствие" level="1">
+            <characteristic>
+                <entry>
+                    <string>Проворство</string>
+                    <float>8</float>
+                </entry>
+                <entry>
+                    <string>Стойкость I Воля</string>
+                    <float>8</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>47.04</float>
+                </entry>
+            </characteristic>
+            <description>Уменьшает время воскрешения героя на 20%.
++8 Проворства.
++8 к наибольшему из Стойкости и Воли.
+Может быть улучшен 2 талантами сети.</description>
+            <image>image/talents5/orange/Imminent presence.jpg</image>
+            <delta>
+                <entry>
+                    <string>Проворство</string>
+                    <float>0.6</float>
+                </entry>
+                <entry>
+                    <string>Стойкость I Воля</string>
+                    <float>0.6</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Шестое чувство" level="1">
+            <characteristic>
+                <entry>
+                    <string>Проворство</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>6.5</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>47.04</float>
+                </entry>
+            </characteristic>
+            <description>+10 Проворства.
++6.5 Стойкости.
+Талант Предзнаменование накапливает на 2 заряда больше.</description>
+            <image>image/talents5/orange/Sixth Sense.jpg</image>
+            <delta>
+                <entry>
+                    <string>Проворство</string>
+                    <float>0.7</float>
+                </entry>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>0.5</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Неудержимая воля" level="1">
+            <characteristic>
+                <entry>
+                    <string>Проворство</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Воля</string>
+                    <float>6.5</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>47.04</float>
+                </entry>
+            </characteristic>
+            <description>+10 Проворства.
++6.5 Воли.
+Призрачный наблюдатель, призванный талантом Призрачные объятья теперь видит и невидимок.</description>
+            <image>image/talents5/orange/The uncontrollable will.jpg</image>
+            <delta>
+                <entry>
+                    <string>Проворство</string>
+                    <float>0.7</float>
+                </entry>
+                <entry>
+                    <string>Воля</string>
+                    <float>0.5</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Хищная натура" level="1">
+            <characteristic>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>6.5</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>47.04</float>
+                </entry>
+            </characteristic>
+            <description>Наносит цели 100 физ. урона и связывает цель вместе с вражеским героем или деревом, находящимся позади, обездвиживая её на 3 секунды. Если сзади цели нет вражеского героя или дерева, эффект обездвиживания продлится всего 1.5 секунды.
++10 Хитрости.
++6.5 Стойкости.
+Может быть улучшен 2 талантами сета.</description>
+            <image>image/talents5/orange/Predatory nature.jpg</image>
+            <delta>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>0.7</float>
+                </entry>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>0.5</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Коварное намерение" level="1">
+            <characteristic>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Воля</string>
+                    <float>6.5</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>47.04</float>
+                </entry>
+            </characteristic>
+            <description>+10 Хитрости.
++6.5 Воли.
+Время восстановления таланта Искажение мысли сокращается на 40 сек.</description>
+            <image>image/talents5/orange/Insidious intention.jpg</image>
+            <delta>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>0.7</float>
+                </entry>
+                <entry>
+                    <string>Воля</string>
+                    <float>0.5</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Стойкий шанс" level="1">
+            <characteristic>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>150</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>47.04</float>
+                </entry>
+            </characteristic>
+            <description>+10 Стойкости.
++150 Здоровья.
+При срабатывании талант Грань шансов с героя снимаектся самый опасный негативный эффект.</description>
+            <image>image/talents5/orange/A strong chance.jpg</image>
+            <delta>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>0.7</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>15</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Волевой шанс" level="1">
+            <characteristic>
+                <entry>
+                    <string>Воля</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>150</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>47.04</float>
+                </entry>
+            </characteristic>
+            <description>+10 Воли.
++150 Здоровья.
+При срабатывании талант Грань шансов с героя снимается самый опасный негативный эффект.</description>
+            <image>image/talents5/orange/Strong willed chance.jpg</image>
+            <delta>
+                <entry>
+                    <string>Воля</string>
+                    <float>0.7</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>15</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Мгновение тела" level="1">
+            <characteristic>
+                <entry>
+                    <string>Сила I Разум</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Воля</string>
+                    <float>6</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>47.04</float>
+                </entry>
+            </characteristic>
+            <description>+10 к наибольшему из Силы и Разума.
++6 Воли.
+Во время действия таланта Чувство мгновений получаемый героем физ. урон снижается на 60%.</description>
+            <image>image/talents5/orange/Moment of the body.jpg</image>
+            <delta>
+                <entry>
+                    <string>Сила I Разум</string>
+                    <float>0.7</float>
+                </entry>
+                <entry>
+                    <string>Воля</string>
+                    <float>0.5</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Мгновение духа" level="1">
+            <characteristic>
+                <entry>
+                    <string>Сила I Разум</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>6</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>47.04</float>
+                </entry>
+            </characteristic>
+            <description>+10 к наибольшему из Силы и Разума.
++6 Стойкость.
+Во время действия таланта Чувство мгновений получаемый героем маг. урон снижается на 60%.</description>
+            <image>image/talents5/orange/A moment of spirit.jpg</image>
+            <delta>
+                <entry>
+                    <string>Сила I Разум</string>
+                    <float>0.7</float>
+                </entry>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>0.5</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Кара коварства" level="1">
+            <characteristic>
+                <entry>
+                    <string>Сила I Разум</string>
+                    <float>6.5</float>
+                </entry>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>47.04</float>
+                </entry>
+            </characteristic>
+            <description>+6.5 к наибольшему из Силы и Разума.
++10 Хитрости.
+Талант Путь карателя дополнительно оглушает указанного врага на 0.6 сек.</description>
+            <image>image/talents5/orange/Kara of treachery.jpg</image>
+            <delta>
+                <entry>
+                    <string>Сила I Разум</string>
+                    <float>0.5</float>
+                </entry>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>0.7</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Исток уз" level="1">
+            <characteristic>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+               </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>47.04</float>
+                </entry>
+            </characteristic>
+            <description>Сотворяется 0.5 сек и создает на 5 сек область, где большее из Силы и Разума врагов уменьшается на 45.
+Талант может быть улучшен 3 талантами сета.</description>
+            <image>image/talents5/orange/The source of knots.jpg</image>
+        </talent>
+
+        <talent name="Неукротимость зверя" level="1">
+            <characteristic>
+                <entry>
+                    <string>Сила</string>
+                    <float>7.4</float>
+                </entry>
+                <entry>
+                    <string>Проворство</string>
+                    <float>10.5</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>47.04</float>
+                </entry>
+            </characteristic>
+            <description>+7.4 Силы.
++10.5 Проворства.
++5.4 Проворства на родной земле.</description>
+            <image>image/talents5/orange/The indomitable beast.jpg</image>
+            <delta>
+                <entry>
+                    <string>Сила</string>
+                    <float>0.6</float>
+                </entry>
+                <entry>
+                    <string>Проворство</string>
+                    <float>0.8</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Интуиция зверя" level="1">
+            <characteristic>
+                <entry>
+                    <string>Разум</string>
+                    <float>7.4</float>
+                </entry>
+                <entry>
+                    <string>Проворство</string>
+                    <float>10.5</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>47.04</float>
+                </entry>
+            </characteristic>
+            <description>+7.4 Разума.
++10.5 Проворства.
++5.4 Проворства на родной земле.</description>
+            <image>image/talents5/orange/The intuition of the beast.jpg</image>
+            <delta>
+                <entry>
+                    <string>Разум</string>
+                    <float>0.6</float>
+                </entry>
+                <entry>
+                    <string>Проворство</string>
+                    <float>0.8</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Первородная сила" level="1">
+            <characteristic>
+                <entry>
+                    <string>Сила</string>
+                    <float>9</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>225</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>47.04</float>
+                </entry>
+            </characteristic>
+            <description>+9 Силы.
++225 Здоровья.
++5.4 Силы на родной земле.</description>
+            <image>image/talents5/orange/Original power.jpg</image>
+            <delta>
+                <entry>
+                    <string>Сила</string>
+                    <float>0.7</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>16</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Первородная мудрость" level="1">
+            <characteristic>
+                <entry>
+                    <string>Разум</string>
+                    <float>9</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>225</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>47.04</float>
+                </entry>
+            </characteristic>
+            <description>+9 Разума.
++225 Здоровья.
++5.4 Разума на родной земле.</description>
+            <image>image/talents5/orange/Original wisdom.jpg</image>
+            <delta>
+                <entry>
+                    <string>Разум</string>
+                    <float>0.7</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>16</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Разрушительная сила" level="1">
+            <characteristic>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>350</float>
+                </entry>
+                <entry>
+                    <string>Силы</string>
+                    <float>4</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>47.04</float>
+                </entry>
+            </characteristic>
+            <description>+350 Здоровья.
++4 Силы.
++6 Силы на вражеской или нейтральной земле.</description>
+            <image>image/talents5/orange/Destructive force.jpg</image>
+            <delta>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>25</float>
+                </entry>
+                <entry>
+                    <string>Сила</string>
+                    <float>0.3</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Созидательный разум" level="1">
+            <characteristic>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>350</float>
+                </entry>
+                <entry>
+                    <string>Разум</string>
+                    <float>4</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>47.04</float>
+                </entry>
+            </characteristic>
+            <description>+350 Здоровья.
++4 Разума.
++6 Разума на вражеской или нейтральной земле.</description>
+            <image>image/talents5/orange/The creative mind.jpg</image>
+            <delta>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>25</float>
+                </entry>
+                <entry>
+                    <string>Разум</string>
+                    <float>0.3</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Искажение пространства" level="1">
+            <characteristic>
+                <entry>
+                    <string>Стойкость I Воля</string>
+                    <float>6</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>47.04</float>
+                </entry>
+            </characteristic>
+            <description>+6 к наибольшему из Стойкости и Воли.
+Владелец таланта или указанный вражеский герой не может ничего делать и неуязвим в течении 2.5 сек.</description>
+            <image>image/talents5/orange/Distortion of space.jpg</image>
+            <delta>
+                <entry>
+                    <string>Стойкость I Воля</string>
+                    <float>0.75</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Ревностная защита" level="1">
+            <characteristic>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>205</float>
+                </entry>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>47.04</float>
+                </entry>
+            </characteristic>
+            <description>+205 Здоровья.
+                +10 Стойкости.
+                За каждые полученные 260 урона Стойкость дополнительно возрастает на 0.2.
+                Суммарный бонус не может быть больше 8.
+                (10400 урона).</description>
+            <image>image/talents5/orange/Jealous defense.jpg</image>
+            <delta>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>14</float>
+                </entry>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>1</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Проявление воли" level="1">
+            <characteristic>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>205</float>
+                </entry>
+                <entry>
+                    <string>Воля</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>47.04</float>
+                </entry>
+            </characteristic>
+            <description>+205 Здоровья.
++10 Воли.
+За каждые полученные 260 урона Воля дополнительно возрастает на 0.2.
+Суммарный бонус не может быть больше 8.
+(10400 урона).</description>
+            <image>image/talents5/orange/Manifestation of will.jpg</image>
+            <delta>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>14</float>
+                </entry>
+                <entry>
+                    <string>Воля</string>
+                    <float>1</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Лукавство" level="1">
+            <characteristic>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Сила I Разум</string>
+                    <float>9</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>47.04</float>
+                </entry>
+            </characteristic>
+            <description>+10 Хитрости.
++9 к наибольшему из Силы и Разума.
+За каждое применение рядом с героем активного таланта Хитрость дополнительно возрастает на 0.06. Суммарный бонус не может быть больше 6.
+(100 активаций).</description>
+            <image>image/talents5/orange/Harassment.jpg</image>
+            <delta>
+                <entry>
+                    <string>Сила I Разум</string>
+                    <float>0.7</float>
+                </entry>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>1</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Устрашающая резвость" level="1">
+            <characteristic>
+                <entry>
+                    <string>Проворство</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Кража ХП</string>
+                    <float>16</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>47.04</float>
+                </entry>
+            </characteristic>
+            <description>+10 Проворства.
++16 кражи Здоровья.
+За каждое убитое существо Проворство дополнительно возрастает на 0.08, а за убийство героя - на 0.8.
+Суммарный бонус не может быть больше 5.
+(63 крипа/7 героев).</description>
+            <image>image/talents5/orange/Awesome playfulness.jpg</image>
+            <delta>
+                <entry>
+                    <string>Проворство</string>
+                    <float>1</float>
+                </entry>
+                <entry>
+                    <string>Кража ХП</string>
+                    <float>1</float>
+                </entry>
+            </delta>
+        </talent>
+
+    </orangeList>
+
+    <pinkList>
+        <talent name="Чародейская регенерация" level="1">
+            <characteristic>
+                <entry>
+                    <string>Разум</string>
+                    <float>8</float>
+                </entry>
+                <entry>
+                    <string>Рег. здоровья</string>
+                    <float>4.5</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>43.2</float>
+                </entry>
+            </characteristic>
+            <description>+8 Разума.
++4.5 регенерации Здоровья.</description>
+            <image>image/talents5/pink/Arcane Regeneration.jpg</image>
+            <delta>
+                <entry>
+                    <string>Разум</string>
+                    <float>0.6</float>
+                </entry>
+                <entry>
+                    <string>Рег. здоровья</string>
+                    <float>0.3</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Героическая стойкость" level="1">
+            <characteristic>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>16</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>43.2</float>
+                </entry>
+            </characteristic>
+            <description>+16 Стойкости.</description>
+            <image>image/talents5/pink/Heroic Resistance.jpg</image>
+            <delta>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>1.2</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Коварная защита" level="1">
+            <characteristic>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>3</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>43.2</float>
+                </entry>
+            </characteristic>
+            <description>С 35% шансом герой игнорирует 50 урона от атаки врага.
++3 Хитрости.</description>
+            <image>image/talents5/pink/Insidious Protection.jpg</image>
+            <delta>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>0.3</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Ледяное могущество" level="1">
+            <characteristic>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>43.2</float>
+                </entry>
+            </characteristic>
+            <description>Атака героя дополнительно наносит врагу 12 маг. урона и снижает его Скорость на 20% на 1.5 сек.</description>
+            <image>image/talents5/pink/Ice power.jpg</image>
+        </talent>
+
+        <talent name="Недюжинная сила" level="1">
+            <characteristic>
+                <entry>
+                    <string>Сила</string>
+                    <float>8</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>200</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>43.2</float>
+                </entry>
+            </characteristic>
+            <description>+8 Силы.
++200 Здоровья.</description>
+            <image>image/talents5/pink/Uncommon strength.jpg</image>
+            <delta>
+                <entry>
+                    <string>Сила</string>
+                    <float>0.6</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>15</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Недюжинный ум" level="1">
+            <characteristic>
+                <entry>
+                    <string>Разум</string>
+                    <float>8</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>200</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>43.2</float>
+                </entry>
+            </characteristic>
+            <description>+8 Разума.
++200 Здоровья.</description>
+            <image>image/talents5/pink/Uncommon mind.jpg</image>
+            <delta>
+                <entry>
+                    <string>Разум</string>
+                    <float>0.6</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>15</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Неоправданная жестокость" level="1">
+            <characteristic>
+                <entry>
+                    <string>Проворство</string>
+                    <float>5</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>43.2</float>
+                </entry>
+            </characteristic>
+            <description>Атака героя с 25% шансом дополнительно наносит 50 чистого урона.
++5 Проворства.</description>
+            <image>image/talents5/pink/Unjustified cruelty.jpg</image>
+            <delta>
+                <entry>
+                    <string>Проворство</string>
+                    <float>0.3</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Непоколебимость" level="1">
+            <characteristic>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>70</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>43.2</float>
+                </entry>
+            </characteristic>
+            <description>При активации со всех вокруг снимаются наложенные врагами эффекты.
++70 Здоровья.</description>
+            <image>image/talents5/pink/Resilience.jpg</image>
+            <delta>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>25</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Разрушение защит" level="1">
+            <characteristic>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>43.2</float>
+                </entry>
+            </characteristic>
+            <description>При автоатаке с 45% шансом понижает Стойкость и Волю цели на 18 на 4 сек.</description>
+            <image>image/talents5/pink/Destruction of protection.jpg</image>
+        </talent>
+
+        <talent name="Рыцарская регенерация" level="1">
+            <characteristic>
+                <entry>
+                    <string>Сила</string>
+                    <float>8</float>
+                </entry>
+                <entry>
+                    <string>Рег. здоровья</string>
+                    <float>4.5</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>43.2</float>
+                </entry>
+            </characteristic>
+            <description>+8 Силы.
++4.5 регенерации Здоровья.</description>
+            <image>image/talents5/pink/Knightly regeneration.jpg</image>
+            <delta>
+                <entry>
+                    <string>Сила</string>
+                    <float>0.6</float>
+                </entry>
+                <entry>
+                    <string>Рег. здоровья</string>
+                    <float>0.3</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Тактический расчет" level="1">
+            <characteristic>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>43.2</float>
+                </entry>
+            </characteristic>
+            <description>Герой получает по 1 Стойкости и Воли за каждые 10% территории под контролем противников, и по 1 Хитрости и Проворства за каждые 10% территории под контролем союзников.</description>
+            <image>image/talents5/pink/Tactical calculation.jpg</image>
+        </talent>
+
+        <talent name="Воля к победе" level="1">
+            <characteristic>
+                <entry>
+                    <string>Воля</string>
+                    <float>16</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>43.2</float>
+                </entry>
+            </characteristic>
+            <description>+16 Воли.</description>
+            <image>image/talents5/pink/The will to win.jpg</image>
+            <delta>
+                <entry>
+                    <string>Воля</string>
+                    <float>1.2</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Кровь древних" level="1">
+            <characteristic>
+                <entry>
+                    <string>Рег. здоровья</string>
+                    <float>9</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>43.2</float>
+                </entry>
+            </characteristic>
+            <description>+9 регенерации Здоровья.</description>
+            <image>image/talents5/pink/The blood of the ancients.jpg</image>
+            <delta>
+                <entry>
+                    <string>Рег. здоровья</string>
+                    <float>0.6</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Кровавый голод" level="1">
+            <characteristic>
+                <entry>
+                    <string>Кража ХП</string>
+                    <float>20</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>43.2</float>
+                </entry>
+            </characteristic>
+            <description>Герой получает 0.3 кражи Здоровья за каждого убитого им солдата и 3 кражи Здоровья за каждого убитого им героя.
+Предельная суммарная прибавка - 18.
++20 кражи Здоровья.</description>
+            <image>image/talents5/pink/Bloody famine.jpg</image>
+            <delta>
+                <entry>
+                    <string>Кража ХП</string>
+                    <float>2</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Отвага древних" level="1">
+            <characteristic>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>340</float>
+                </entry>
+                <entry>
+                    <string>Рег. здоровья</string>
+                    <float>1.5</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>43.2</float>
+                </entry>
+            </characteristic>
+            <description>+340 Здоровья.
++1.5 регенерации Здоровья.</description>
+            <image>image/talents5/pink/The courage of the ancients.jpg</image>
+            <delta>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>25</float>
+                </entry>
+                <entry>
+                    <string>Рег. здоровья</string>
+                    <float>0.125</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Разрушительная хитрость" level="1">
+            <characteristic>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>13</float>
+                </entry>
+                <entry>
+                    <string>Энергия</string>
+                    <float>100</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>43.2</float>
+                </entry>
+            </characteristic>
+            <description>+13 Хитрости.
++100 Энергии.</description>
+            <image>image/talents5/pink/Destructive cunning.jpg</image>
+            <delta>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>1</float>
+                </entry>
+                <entry>
+                    <string>Энергия</string>
+                    <float>7</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Внезапная стремительность" level="1">
+            <characteristic>
+                <entry>
+                    <string>Проворство</string>
+                    <float>13</float>
+                </entry>
+                <entry>
+                    <string>Кража ХП</string>
+                    <float>5.4</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>43.2</float>
+                </entry>
+            </characteristic>
+            <description>+13 Проворства.
++5.4 кражи Здоровья.</description>
+            <image>image/talents5/pink/Sudden swiftness.jpg</image>
+            <delta>
+                <entry>
+                    <string>Проворство</string>
+                    <float>1</float>
+                </entry>
+                <entry>
+                    <string>Кража ХП</string>
+                    <float>0.4</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Ледяной отпор" level="1">
+            <characteristic>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>43.2</float>
+                </entry>
+            </characteristic>
+            <description>Враг, атакующий героя, получает 15 маг. урона и на 2 сек теряет 20% своей Скорости.</description>
+            <image>image/talents5/pink/Icy repulse.jpg</image>
+        </talent>
+
+        <talent name="Инстинкт охотника" level="1">
+            <characteristic>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>43.2</float>
+                </entry>
+            </characteristic>
+            <description>Атака героя дополнительно наносит монстрам 70 физ. урона. За каждого убитого монстра дополнительный урон увеличивается на 14, но не более чем до 350 суммарно.</description>
+            <image>image/talents5/pink/Hunter's Instinct.jpg</image>
+        </talent>
+
+    </pinkList>
+
+    <blueList>
+        <talent name="Целеустремленность" level="1">
+            <characteristic>
+                <entry>
+                    <string>КД пак</string>
+                    <float>4</float>
+                </entry>
+                <entry>
+                    <string>Сила</string>
+                    <float>5</float>
+                </entry>
+                <entry>
+                    <string>Разум</string>
+                    <float>5</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>-4% времени восстановления умений.
++5 Силы.
++5 Разума.</description>
+            <image>image/talents5/blue/Purposefulness.jpg</image>
+            <delta>
+                <entry>
+                    <string>Сила</string>
+                    <float>0.5</float>
+                </entry>
+                <entry>
+                    <string>Разум</string>
+                    <float>0.5</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Чарующая сила" level="1">
+            <characteristic>
+                <entry>
+                    <string>Сила</string>
+                    <float>6</float>
+                </entry>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>7</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>+6 Силы.
++7 Хитрости.</description>
+            <image>image/talents5/blue/Enchanting power.jpg</image>
+            <delta>
+                <entry>
+                    <string>Сила</string>
+                    <float>0.6</float>
+                </entry>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>0.45</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Гармоничное развитие" level="1">
+            <characteristic>
+                <entry>
+                    <string>Сила</string>
+                    <float>7</float>
+                </entry>
+                <entry>
+                    <string>Разум</string>
+                    <float>7</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>+7 Силы.
++7 Разума.</description>
+            <image>image/talents5/blue/Harmonious development.jpg</image>
+            <delta>
+                <entry>
+                    <string>Сила</string>
+                    <float>0.5</float>
+                </entry>
+                <entry>
+                    <string>Разум</string>
+                    <float>0.5</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Ловкость рук" level="1">
+            <characteristic>
+                <entry>
+                    <string>Проворство</string>
+                    <float>13</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>+13 Проворства.</description>
+            <image>image/talents5/blue/Sleight of hand.jpg</image>
+            <delta>
+                <entry>
+                    <string>Проворство</string>
+                    <float>1</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Ментальный клинок" level="1">
+            <characteristic>
+                <entry>
+                    <string>Разум</string>
+                    <float>4</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>При активации наносит указанному врагу 300 маг. урона.
++4 Разума.</description>
+            <image>image/talents5/blue/Mental Blade.jpg</image>
+            <delta>
+                <entry>
+                    <string>Разум</string>
+                    <float>0.5</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Поглощение жизни" level="1">
+            <characteristic>
+                <entry>
+                    <string>Кража ХП</string>
+                    <float>10</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>190</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>+10 кражи Здоровья.
++190 Здоровья.</description>
+            <image>image/talents5/blue/Absorption of life.jpg</image>
+            <delta>
+                <entry>
+                    <string>Кража ХП</string>
+                    <float>0.7</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>15</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Смекалка" level="1">
+            <characteristic>
+                <entry>
+                    <string>Разум</string>
+                    <float>6</float>
+                </entry>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>7</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>+6 Разума.
++7 Хитрости.</description>
+            <image>image/talents5/blue/Savvy.jpg</image>
+            <delta>
+                <entry>
+                    <string>Разум</string>
+                    <float>0.6</float>
+                </entry>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>0.45</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Стальная закалка" level="1">
+            <characteristic>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>9</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>Максимальная Стойкость героя увеличивается на 0.2 каждый раз при получении 200 единиц урона.
+Предельная суммарная прибавка - 10.
++9 Стойкости.</description>
+            <image>image/talents5/blue/Steel hardening.jpg</image>
+            <delta>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>0.9</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Тайновидение" level="1">
+            <characteristic>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>100</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>На 10 секунд создает в любом месте карты зону видимости обнаруживающую невидимых врагов.
++100 Здоровья.</description>
+            <image>image/talents5/blue/Mystery.jpg</image>
+            <delta>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>25</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Твердость характера" level="1">
+            <characteristic>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>9</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>100</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>+9 Стойкости.
++100 Здоровья.</description>
+            <image>image/talents5/blue/Hardness of character.jpg</image>
+            <delta>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>0.75</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>7.5</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Твердость суждений" level="1">
+            <characteristic>
+                <entry>
+                    <string>Воля</string>
+                    <float>9</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>100</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>+9 Воли.
++100 Здоровья.</description>
+            <image>image/talents5/blue/Hardness of judgments.jpg</image>
+            <delta>
+                <entry>
+                    <string>Воля</string>
+                    <float>0.75</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>7.5</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Укрепление веры" level="1">
+            <characteristic>
+                <entry>
+                    <string>Воля</string>
+                    <float>9</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>Максимальная Воля героя увеличивается на 0.2 при получении 200 единиц урона.
+Предельная суммарная прибавка - 10.
++9 Воли.</description>
+            <image>image/talents5/blue/Strengthening faith.jpg</image>
+            <delta>
+                <entry>
+                    <string>Воля</string>
+                    <float>0.9</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Жажда разрушения" level="1">
+            <characteristic>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>13</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>+13 Хитрости.</description>
+            <image>image/talents5/blue/The thirst for destruction.jpg</image>
+            <delta>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>1</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Отважное сердце" level="1">
+            <characteristic>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>330</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>+330 Здоровья.</description>
+            <image>image/talents5/blue/Brave heart.jpg</image>
+            <delta>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>25</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Искусство штурма" level="1">
+            <characteristic>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>Стойкость и Воля всех врагов вокруг уменьшается на 5.</description>
+            <image>image/talents5/blue/The art of storming.jpg</image>
+        </talent>
+
+        <talent name="Концентрация сил" level="1">
+            <characteristic>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>При активации повышает Разум и Волю на 12 на 10 сек.</description>
+            <image>image/talents5/blue/Concentration of forces.jpg</image>
+        </talent>
+
+        <talent name="Мастерство умений" level="1">
+            <characteristic>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>Все таланты требуют на 30% меньше энергии.</description>
+            <image>image/talents5/blue/Skill of skills.jpg</image>
+        </talent>
+
+        <talent name="Ментальный барьер" level="1">
+            <characteristic>
+                <entry>
+                    <string>Воля</string>
+                    <float>3.6</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>При активации герой становится неуязвим к маг. урону на 2 сек.
++3.6 Воли.</description>
+            <image>image/talents5/blue/Mental barrier.jpg</image>
+            <delta>
+                <entry>
+                    <string>Воля</string>
+                    <float>1</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Ненасытная натура" level="1">
+            <characteristic>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>6</float>
+                </entry>
+                <entry>
+                    <string>Кража ХП</string>
+                    <float>12</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>+6 Стойкости.
++12 кражи Здоровья.</description>
+            <image>image/talents5/blue/Insatiable nature.jpg</image>
+            <delta>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>0.5</float>
+                </entry>
+                <entry>
+                    <string>Кража ХП</string>
+                    <float>0.9</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Ненасытный характер" level="1">
+            <characteristic>
+                <entry>
+                    <string>Воля</string>
+                    <float>6</float>
+                </entry>
+                <entry>
+                    <string>Кража ХП</string>
+                    <float>12</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>+6 Воли.
++12 кражи Здоровья.</description>
+            <image>image/talents5/blue/Insatiable character.jpg</image>
+            <delta>
+                <entry>
+                    <string>Воля</string>
+                    <float>0.5</float>
+                </entry>
+                <entry>
+                    <string>Кража ХП</string>
+                    <float>0.9</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Парализующий удар" level="1">
+            <characteristic>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>Атака героя с 25% шансом дополнительно наносит врагу 25 маг. урона и снижает на 2 сек его Скорость на 20%.</description>
+            <image>image/talents5/blue/A paralyzing blow.jpg</image>
+        </talent>
+
+        <talent name="Пробивание брони" level="1">
+            <characteristic>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>При автоатаке с 45% шансом понижает Стойкость цели на 26 на 4 сек.</description>
+            <image>image/talents5/blue/Armor Penetration.jpg</image>
+        </talent>
+
+        <talent name="Подавление воли" level="1">
+            <characteristic>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>При автоатаке с 45% шансом понижает Волю цели на 26 на 4 сек.</description>
+            <image>image/talents5/blue/Suppression of the will.jpg</image>
+        </talent>
+
+        <talent name="Упоение битвой" level="1">
+            <characteristic>
+                <entry>
+                    <string>Кража ХП</string>
+                    <float>6.8</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>При активации герой получает 15 Силы на 8 сек.
++6.8 кражи Здоровья.</description>
+            <image>image/talents5/blue/Surrender to the battle.jpg</image>
+            <delta>
+                <entry>
+                    <string>Кража ХП</string>
+                    <float>1.7</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Защитный барьер" level="1">
+            <characteristic>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>3.6</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>При активации герой становится неуязвим к физ. урону на 2 сек.
++3.6 Стойкости.</description>
+            <image>image/talents5/blue/Protective barrier.jpg</image>
+            <delta>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>1</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Жажда крови" level="1">
+            <characteristic>
+                <entry>
+                    <string>Проворство</string>
+                    <float>6</float>
+                </entry>
+                <entry>
+                    <string>Кража ХП</string>
+                    <float>12</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>+6 Проворства.
++12 кражи Здоровья.</description>
+            <image>image/talents5/blue/The thirst for blood.jpg</image>
+            <delta>
+                <entry>
+                    <string>Проворство</string>
+                    <float>0.5</float>
+                </entry>
+                <entry>
+                    <string>Кража ХП</string>
+                    <float>0.9</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Змеиное коварство" level="1">
+            <characteristic>
+                <entry>
+                    <string>Кража ХП</string>
+                    <float>6.8</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>При активации повышает Разум героя на 15 на 8 сек.
++6.8 кражи Здоровья.</description>
+            <image>image/talents5/blue/Snake cunning.jpg</image>
+            <delta>
+                <entry>
+                    <string>Кража ХП</string>
+                    <float>1.7</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Изобилие жизни" level="1">
+            <characteristic>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>Каждые 6 сек восстанавливает всем союзникам вокруг 30 Здоровья.</description>
+            <image>image/talents5/blue/Abundance of life.jpg</image>
+        </talent>
+
+        <talent name="Коварная натура" level="1">
+            <characteristic>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>6.6</float>
+                </entry>
+                <entry>
+                    <string>Проворство</string>
+                    <float>6.6</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>+6.6 Хитрости.
++6.6 Проворства.</description>
+            <image>image/talents5/blue/Insidious nature.jpg</image>
+            <delta>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>0.5</float>
+                </entry>
+                <entry>
+                    <string>Проворство</string>
+                    <float>0.5</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Логичная защита" level="1">
+            <characteristic>
+                <entry>
+                    <string>Разум</string>
+                    <float>5.4</float>
+                </entry>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>8</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>+5.4 Разума.
++8 Стойкости.</description>
+            <image>image/talents5/blue/Logical protection.jpg</image>
+            <delta>
+                <entry>
+                    <string>Разум</string>
+                    <float>0.6</float>
+                </entry>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>0.4</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Могучее тело" level="1">
+            <characteristic>
+                <entry>
+                    <string>Сила</string>
+                    <float>4.5</float>
+                </entry>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>4.5</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>100</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>+4.5 Силы.
++4.5 Стойкости.
++100 Здоровья.</description>
+            <image>image/talents5/blue/Mighty body.jpg</image>
+            <delta>
+                <entry>
+                    <string>Сила</string>
+                    <float>0.5</float>
+                </entry>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>0.5</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Могучий ум" level="1">
+            <characteristic>
+                <entry>
+                    <string>Разум</string>
+                    <float>4.5</float>
+                </entry>
+                <entry>
+                    <string>Воля</string>
+                    <float>4.5</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>100</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>+4.5 Разума.
++4.5 Воли.
++100 Здоровья.</description>
+            <image>image/talents5/blue/Mighty Mind.jpg</image>
+            <delta>
+                <entry>
+                    <string>Разум</string>
+                    <float>0.5</float>
+                </entry>
+                <entry>
+                    <string>Воля</string>
+                    <float>0.5</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Непробиваемость" level="1">
+            <characteristic>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>9.5</float>
+                </entry>
+                <entry>
+                    <string>Рег. здоровья</string>
+                    <float>2.2</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>+9.5 Стойкости.
++2.2 регенерации Здоровья.</description>
+            <image>image/talents5/blue/Impenetrability.jpg</image>
+            <delta>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>0.7</float>
+                </entry>
+                <entry>
+                    <string>Рег. здоровья</string>
+                    <float>0.2</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Отменная Стойкость" level="1">
+            <characteristic>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>13</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>+13 Стойкости.</description>
+            <image>image/talents5/blue/Excellent Resistance.jpg</image>
+            <delta>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>1</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Отменная Воля" level="1">
+            <characteristic>
+                <entry>
+                    <string>Воля</string>
+                    <float>13</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>+13 Воли.</description>
+            <image>image/talents5/blue/Excellent Will.jpg</image>
+            <delta>
+                <entry>
+                    <string>Воля</string>
+                    <float>1</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Родство с магией" level="1">
+            <characteristic>
+                <entry>
+                    <string>Разум</string>
+                    <float>5.4</float>
+                </entry>
+                <entry>
+                    <string>Воля</string>
+                    <float>8</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>+5.4 Разума.
++8 Воли.</description>
+            <image>image/talents5/blue/Kinship with magic.jpg</image>
+            <delta>
+                <entry>
+                    <string>Разум</string>
+                    <float>0.6</float>
+                </entry>
+                <entry>
+                    <string>Воля</string>
+                    <float>0.4</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Упорство рыцаря" level="1">
+            <characteristic>
+                <entry>
+                    <string>Сила</string>
+                    <float>5.4</float>
+                </entry>
+                <entry>
+                    <string>Воля</string>
+                    <float>8</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>+5.4 Силы.
++8 Воли.</description>
+            <image>image/talents5/blue/The persistence of the knight.jpg</image>
+            <delta>
+                <entry>
+                    <string>Сила</string>
+                    <float>0.6</float>
+                </entry>
+                <entry>
+                    <string>Воля</string>
+                    <float>0.4</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Упорство воина" level="1">
+            <characteristic>
+                <entry>
+                    <string>Сила</string>
+                    <float>5.4</float>
+                </entry>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>8</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>+5.4 Силы.
++8 Стойкости.</description>
+            <image>image/talents5/blue/Perseverance of a warrior.jpg</image>
+            <delta>
+                <entry>
+                    <string>Сила</string>
+                    <float>0.6</float>
+                </entry>
+                <entry>
+                    <string>Стойкость</string>
+                    <float>0.4</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Военная хитрость" level="1">
+            <characteristic>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>7.5</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>150</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>+7.5 Хитрости.
++150 Здоровья.</description>
+            <image>image/talents5/blue/Military cunning.jpg</image>
+            <delta>
+                <entry>
+                    <string>Хитрость</string>
+                    <float>0.5</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>12</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Волчья выносливость" level="1">
+            <characteristic>
+                <entry>
+                    <string>Проворство</string>
+                    <float>7.5</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>150</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>+7.5 Проворства.
++150 Здоровья.</description>
+            <image>image/talents5/blue/Wolf Stamina.jpg</image>
+            <delta>
+                <entry>
+                    <string>Проворство</string>
+                    <float>0.5</float>
+                </entry>
+                <entry>
+                    <string>Здоровье</string>
+                    <float>12</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Воля к жизни" level="1">
+            <characteristic>
+                <entry>
+                    <string>Воля</string>
+                    <float>9.5</float>
+                </entry>
+                <entry>
+                    <string>Рег. здоровья</string>
+                    <float>2.2</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>+9.5 Воли.
++2.2 регенерации Здоровья.</description>
+            <image>image/talents5/blue/Will to live.jpg</image>
+            <delta>
+                <entry>
+                    <string>Воля</string>
+                    <float>0.7</float>
+                </entry>
+                <entry>
+                    <string>Рег. здоровья</string>
+                    <float>0.2</float>
+                </entry>
+            </delta>
+        </talent>
+
+        <talent name="Жизненная энергия" level="1">
+            <characteristic>
+                <entry>
+                    <string>Энергия</string>
+                    <float>250</float>
+                </entry>
+                <entry>
+                    <string>Рег. энергии</string>
+                    <float>2.7</float>
+                </entry>
+                <entry>
+                    <string>Прайм</string>
+                    <float>1160</float>
+                </entry>
+                <entry>
+                    <string>Мощь</string>
+                    <float>36</float>
+                </entry>
+            </characteristic>
+            <description>+250 Энергии.
++2.7 регенерации Энергии.</description>
+            <image>image/talents5/blue/Vital energy.jpg</image>
+            <delta>
+                <entry>
+                    <string>Энергия</string>
+                    <float>12</float>
+                </entry>
+                <entry>
+                    <string>Рег. энергии</string>
+                    <float>0.3</float>
+                </entry>
+            </delta>
+        </talent>
+    </blueList>
+</listTalents>
